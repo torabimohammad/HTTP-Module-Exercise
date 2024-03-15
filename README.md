@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 ## Node.js `http` module
 
 ### Exercise 1
